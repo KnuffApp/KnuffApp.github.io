@@ -21,6 +21,24 @@
 		<enclosure url="https://github.com/KnuffApp/Knuff/releases/download/v1.1/Knuff.app.zip" sparkle:version="2" sparkle:shortVersionString="1.1" sparkle:dsaSignature="MC0CFASdmhauKH+CIKjSgmxYmmoTiQsLAhUA5YlUObfQWILSQ7s11ta5yywEPaI=" length="3539826" type="application/octet-stream" />
 		<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
+        <item>
+		<title>Version 1.2</title>
+		<description>
+			<![CDATA[
+				<h2>New Features</h2>
+				<ul>
+					<li>Support for apns-collapse-id (thanks <a href="https://github.com/amnell">@Amnell</a>!)</li>
+					<li>Better error messages (thanks <a href="https://github.com/janc">@JanC</a>!)</li>
+					<li>New certificate and private key for the Knuff iOS app</li>
+					<li>Adding Carshlytics</li>
+					<li>Bug fixes</li>
+				</ul>
+     			]]>
+		</description>            
+		<pubDate>Wed, 07 Feb 2018 22:26:17 +0100</pubDate>
+		<enclosure url="https://github.com/KnuffApp/Knuff/releases/download/v1.2/Knuff.app.zip" sparkle:version="3" sparkle:shortVersionString="1.2" sparkle:dsaSignature="MC0CFQCUkTvT0zaeRhfDlqF9/vqFMwBN6wIUe8PXAFo+/prhH/ujUFiwXR3fuzs=" length="4533992" type="application/octet-stream" />
+		<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
     </channel>
 </rss>
 
